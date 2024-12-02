@@ -57,3 +57,9 @@
 .read-the-docs {
   color: #888;
 }
+
+@media (max-width: 800px) {
+  .container-button {
+    flex-direction: column;
+  }
+}
